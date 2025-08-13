@@ -1,25 +1,48 @@
-**#🏡 House Price Analysis – Tableau Dashboard**
+# 🛒 Blinkit Data Analysis – Power BI
 
-This project is a beginner-friendly data visualization built in Tableau to explore house price trends.
-It uses real-world housing data to uncover patterns and insights that can help in understanding what influences property prices.
+An **interactive Power BI dashboard** built to analyze Blinkit's sales, outlet performance, and product category insights.  
+This project helps identify sales trends, track KPIs, and make informed business decisions.
 
-📊 Key Features
-Interactive Dashboard: Filter by location, property type, and more
+---
 
-Trend Analysis: View price changes over time
+## 📊 Project Overview
+The Blinkit Data Analysis dashboard provides a complete view of business performance by analyzing sales data from multiple outlets and product categories.  
+It enables stakeholders to monitor performance, understand customer preferences, and identify growth opportunities.
 
-Comparison Charts: Compare average prices across different regions and property features
+---
 
-Data-Driven Insights: Identify factors that impact house prices the most
+## 🚀 Key Features
+- **Sales Overview** – Total sales, average sales, and transaction count
+- **Outlet Analysis** – Sales by outlet type, size, and location
+- **Category Insights** – Performance by product categories and subcategories
+- **Customer Trends** – Buying patterns and preferences
+- **Time Series Trends** – Monthly and yearly sales patterns for forecasting
+- **Top & Bottom Products** – Identify best and worst performers
+- **Interactive Filters** – Slice and explore data dynamically
 
-🛠 Tools Used
-Tableau for creating the interactive dashboard
+---
 
-Hyper Data Extract as the data source
+## 🛠 Tools & Technologies
+- **Power BI** – Dashboard creation and interactive visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Calculations, KPIs, and measures
+- **Excel/CSV Dataset** – Source data for analysis
+- **Data Modeling** – Relationships between multiple tables
 
-🎯 Skills Practiced
-Data cleaning & preparation
+---
 
-Dashboard design & storytelling with data
+## 🎯 Skills Practiced
+- Data cleaning and preparation in **Power Query**
+- Creating **interactive dashboards** with slicers and filters
+- Writing **DAX formulas** for calculated fields
+- Designing **KPI visuals** for quick performance tracking
+- Using data storytelling for business decision-making
 
-Visual analysis for decision-making
+---
+
+## 📷 Dashboard Preview
+*(Add a screenshot or GIF of your dashboard here)*
+
+---
+
+## 📂 Project Structure
