@@ -40,9 +40,3 @@ It enables stakeholders to monitor performance, understand customer preferences,
 
 ---
 
-## 📷 Dashboard Preview
-*(Add a screenshot or GIF of your dashboard here)*
-
----
-
-## 📂 Project Structure
