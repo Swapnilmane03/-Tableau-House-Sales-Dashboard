@@ -1,4 +1,5 @@
-🏡 House Price Analysis – Tableau Dashboard
+**#🏡 House Price Analysis – Tableau Dashboard**
+
 This project is a beginner-friendly data visualization built in Tableau to explore house price trends.
 It uses real-world housing data to uncover patterns and insights that can help in understanding what influences property prices.
 
