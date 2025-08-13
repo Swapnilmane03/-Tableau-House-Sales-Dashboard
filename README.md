@@ -1,42 +1,59 @@
-# 🛒 Blinkit Data Analysis – Power BI
+# 🏡 House Price Analysis – Tableau Dashboard
 
-An **interactive Power BI dashboard** built to analyze Blinkit's sales, outlet performance, and product category insights.  
-This project helps identify sales trends, track KPIs, and make informed business decisions.
+An interactive **Tableau dashboard** created to explore and analyze house price trends.  
+This project visualizes how different factors affect property prices and provides insights for better decision-making in the real estate domain.
 
 ---
 
 ## 📊 Project Overview
-The Blinkit Data Analysis dashboard provides a complete view of business performance by analyzing sales data from multiple outlets and product categories.  
-It enables stakeholders to monitor performance, understand customer preferences, and identify growth opportunities.
+The House Price Analysis dashboard allows users to explore property price patterns based on multiple factors such as **location, property type, size, and year built**.  
+It is designed to help real estate professionals, investors, and home buyers understand market trends and make data-driven decisions.
 
 ---
 
 ## 🚀 Key Features
-- **Sales Overview** – Total sales, average sales, and transaction count
-- **Outlet Analysis** – Sales by outlet type, size, and location
-- **Category Insights** – Performance by product categories and subcategories
-- **Customer Trends** – Buying patterns and preferences
-- **Time Series Trends** – Monthly and yearly sales patterns for forecasting
-- **Top & Bottom Products** – Identify best and worst performers
-- **Interactive Filters** – Slice and explore data dynamically
+- **Overall Price Overview** – Average, median, and total house prices
+- **Location Insights** – Price variations across different areas
+- **Property Type Analysis** – Compare prices for apartments, houses, and other property types
+- **Size & Price Relationship** – Visualize price changes based on square footage or number of rooms
+- **Year Built Trends** – See how the construction year impacts pricing
+- **Interactive Filters** – Filter data by location, type, year, and more
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** – Dashboard creation and interactive visualization
-- **Power Query** – Data cleaning and transformation
-- **DAX** – Calculations, KPIs, and measures
-- **Excel/CSV Dataset** – Source data for analysis
-- **Data Modeling** – Relationships between multiple tables
+- **Tableau** – Data visualization and dashboard creation
+- **Excel/CSV Dataset** – House price dataset used for analysis
+- **Data Preparation** – Cleaning and organizing data before importing into Tableau
 
 ---
 
 ## 🎯 Skills Practiced
-- Data cleaning and preparation in **Power Query**
-- Creating **interactive dashboards** with slicers and filters
-- Writing **DAX formulas** for calculated fields
-- Designing **KPI visuals** for quick performance tracking
-- Using data storytelling for business decision-making
+- Building **interactive dashboards** in Tableau
+- Applying **filters, parameters, and calculated fields**
+- Creating **trend charts, bar charts, and maps**
+- Visual storytelling for business insights
 
 ---
 
+## 📷 Dashboard Preview
+*(Add screenshot of your Tableau dashboard here)*
+
+---
+
+## 📌 How to Use
+1. Download the `.twbx` file from this repository  
+2. Open it in **Tableau Desktop** or **Tableau Public**  
+3. Use filters and interactive elements to explore the data
+
+---
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### ✨ Author
+**Swapnil Mane**  
+📧 Email: *swapnilmane764@gmail.com*  
+🔗 [LinkedIn](https://www.linkedin.com/in/swapnilmane03/) | [GitHub](https://github.com/Swapnilmane03)
